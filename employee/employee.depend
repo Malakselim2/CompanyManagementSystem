@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1704303151 source:c:\users\sleem\documents\employee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
